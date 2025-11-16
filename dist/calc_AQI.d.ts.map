@@ -1,0 +1,1 @@
+{"version":3,"file":"calc_AQI.d.ts","sourceRoot":"","sources":["../src/calc_AQI.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,qBAAqB;IACpC,EAAE,EAAE,MAAM,CAAC;IACX,GAAG,EAAE,MAAM,CAAC;IACZ,GAAG,EAAE,MAAM,CAAC;IACZ,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;CACf;AAkED,eAAO,MAAM,iBAAiB,GAAU,oCAOrC,qBAAqB;;;;;;;;;;;;;;;EAgBvB,CAAC"}
